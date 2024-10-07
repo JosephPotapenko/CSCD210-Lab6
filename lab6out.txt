@@ -1,0 +1,302 @@
+ 
+  ----jGRASP exec: java cscd210lab6.CSCD210Lab6
+ Please enter a positive number:
+ 123
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 1
+ Please enter a positive number:
+ -123
+ You entered a bad input.
+ Please enter a positive number:
+ 234
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 2
+ 234 has 1 odds, 2 evens and 0 zeros.
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ -234
+ You entered a bad input.
+ Please enter a positive number:
+ 123
+ The initial number you provided is heavy
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ 0
+ You entered a bad input.
+ Please enter a positive number:
+ 156
+ The initial number you provided is light
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 4
+ 2.7182818284590455
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 5
+ 432
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 6
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab6.CSCD210Lab6
+ Please enter a positive number:
+ -123456
+ You entered a bad input.
+ Please enter a positive number:
+ 123456
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 1
+ Please enter a positive number:
+ 236
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ 543
+ The initial number you provided is light
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ 543
+ The initial number you provided is light
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 4
+ 2.7182818284590455
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 5
+ 632
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 6
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab6.CSCD210Lab6
+ Please enter a positive number:
+ 839
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 1
+ Please enter a positive number:
+ -2
+ You entered a bad input.
+ Please enter a positive number:
+ 2
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 2
+ 2 has 0 odds, 1 evens and 0 zeros.
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ 34
+ The initial number you provided is light
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 4
+ 2.5
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 5
+ 2
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 6
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab6.CSCD210Lab6
+ Please enter a positive number:
+ 99
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 1
+ Please enter a positive number:
+ 999
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 2
+ 999 has 3 odds, 0 evens and 0 zeros.
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 3
+ Please enter a positive number:
+ 100
+ The initial number you provided is heavy
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 4
+ 2.7182818284590455
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 5
+ 999
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if the number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reverse order
+ 6) Quit!
+ Enter your choice: 6
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
