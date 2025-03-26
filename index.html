@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSCD210 Lab 6</title>
+    <script defer src="script.js"></script> <!-- JavaScript file -->
+</head>
+<body>
+    <h1>CSCD210 Lab 6</h1>
+    <h3>You can do the following: <br></h3>
+     <h4>First- Enter a number. <br>
+      Second- Pick from the following:<br></h4>
+       <h5>-Count how many even/odd numbers or zeros are in the number provided. <br>
+       -Select Light/Heavy and then submit, and then, enter new numbers which will now be calculated to be lighter or heavier than the first value inputed. <br>
+       -Calculate the value of E to greater values of accuracy depending off of the factorial to the value that was provided. <br>
+       -Or print the inputed value in reverse. <br></h5>
+
+    <form id="numberForm">
+        <label for="theNum">Enter a Number:</label>
+        <input type="number" id="theNum" name="theNum" required>
+
+        <label for="secondNum">Enter a Second Number for Light/Heavy:</label>
+        <input type="number" id="secondNum" name="secondNum" required>
+
+        <label for="choice">Choose an Option:</label>
+        <select id="choice" name="choice">
+            <option value="1">New number</option>
+            <option value="2">Odd, Even, Zero count</option>
+            <option value="3">Light or Heavy</option>
+            <option value="4">Calculate E</option>
+            <option value="5">Reverse Number</option>
+            <option value="6">Exit</option>
+        </select>
+
+        <button type="button" onclick="processChoice()">Submit</button>
+    </form>
+
+    <h5>Result:</h5>
+    <div id="result"></div>
+</body>
+</html>

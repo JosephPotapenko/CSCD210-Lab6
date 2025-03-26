@@ -1,4 +1,31 @@
 # CSCD210-Lab6
+## Update README
+I have now made this code compatible to html. You can do the following:
+First: Enter a new number.
+Second:Pick from the following.
+ Count how many even/odd numbers there are, as well as zeros.
+ Select Light/Heavy and then submit, and then, enter new numbers which will now be calculated to be lighter or heavier than the first value inputed. 
+ Calculate the value of E to greater values of accuracy depending off of the factorial to the number that was provided. 
+ Or print the inputed value in reverse. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Description
 This Java program performs various operations on a positive integer provided by the user. It features a menu with options to:
 - Enter a new number.
